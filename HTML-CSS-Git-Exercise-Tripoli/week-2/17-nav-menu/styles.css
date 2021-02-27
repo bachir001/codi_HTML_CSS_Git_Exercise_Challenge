@@ -1,6 +1,6 @@
 /* Write your media queries and flexbox CSS below */
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 480px) {
   .site-header__nav {
     display: flex;
   }
